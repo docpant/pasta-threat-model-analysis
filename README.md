@@ -81,6 +81,7 @@ The application handles sensitive customer data, payment information, authentica
 - `stage4-threat-analysis.md`
 - `stage5-vulnerability-analysis.md`
 - `stage7-security-controls.md`
+- `stage3-application-decomposition.md`
 
 Supporting documents are stored in the `docs/` directory.
 
